@@ -1,16 +1,61 @@
-### Hi there 👋
+# Christian Corrales
 
-<!--
-**ccorr066/ccorr066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### Landlord Review FullStack App 
+An Application which helps users leave a review on their landlords or property manager.
+•	Built framework in React.js and Node.js
+•	Linked pages using React Router
+•	Designed with Bootstrap and CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### White Bear FullStack App
+An application flash card application that aids in memorization using memorable imagery.
+•	Built framework in React.js and Node.js
+•	Linked pages using React Router
+•	Designed with Bootstrap and CSS.
+
+
+### Utility Library
+A library of 40 JavaScript functions
+•	Applied ES5 and ES6 functions
+•	 Built in React.js and Node.js
+•	 Designed with Bootstrap, CSS, SASS
+
+### Recreating Wynn Landing page
+•	Used vanilla HTML and CSS to construct the landing page
+•	Utilize semantic html to optimize SEO strategies.
+
+## Education
+
+### PunchCode
+May 2020 – Jul 2020
+Certificate of Achievement 
+Competed a 12-week course completely remotely
+
+### FreeCodeCamp
+Completed Challenges to further my developmental skills
+https://www.freecodecamp.org/learn
+
+### Miami-Dade College
+Jan 2015 – Dec 2017
+Received AA degree
+
+## Experience
+
+### Aria Resort & Casino
+Poker Dealer | Mar 2019 – Present
+•	Protecting the integrity of the game by making sure all 9-guest play fair and be respectful with each other.
+•	Delivering a 5-diamond customer service to 120 guest per night.
+•	Able to adapt in learning new games within 5 mins.
+•	Being Responsible with dealing with large amounts of transaction daily.
+
+## Technical Skills
+•	JavaScript
+•	Html5
+•	Css3
+•	Sass
+•	jQuery
+•	React.js
+•	Node.js
+•	Bootstrap4
