@@ -6,16 +6,7 @@
 An Application which helps users leave a review on their landlords or property manager.
 •	Built framework in React.js and Node.js
 •	Linked pages using React Router
-•	Designed with Bootstrap and CSS
-
-
-### White Bear FullStack App
-An application flash card application that aids in memorization using memorable imagery.
-•	Built framework in React.js and Node.js
-•	Linked pages using React Router
-•	Designed with Bootstrap and CSS.
-
-
+•	Designed with Bootstrap
 ### Utility Library
 A library of 40 JavaScript functions
 •	Applied ES5 and ES6 functions
